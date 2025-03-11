@@ -1,0 +1,132 @@
+Monopoly Deal Comprehensive Guide
+This document serves as a complete reference for the card game Monopoly Deal. It covers the game’s objective, components, setup, rules of play, detailed card counts, payment guidelines, winning conditions, and additional rule clarifications.
+
+1. Game Overview
+Objective: Be the first player to collect three complete property sets (each of a different color).
+Game Type: A fast-paced card game derived from the classic Monopoly board game.
+Player Count: 2–5 players (use two decks for 6+ players).
+Age Range: Suitable for ages 8 and up.
+Typical Game Duration: Approximately 15–20 minutes.
+2. Game Components
+The standard Monopoly Deal deck contains a total of 110 cards and includes the following:
+
+Quick Start Rule Cards: 4 cards (for reference).
+Money Cards: 20 cards in various denominations.
+Action Cards: 34 cards that execute special functions.
+Rent Cards: 13 cards used to charge opponents rent.
+Property Cards: 28 cards representing various property sets.
+Property Wildcards: 11 cards that can substitute for any property color.
+3. Setup
+Prepare the Deck:
+Remove the 4 Quick Start Rule cards (set these aside for reference).
+Shuffle the remaining 110 cards thoroughly.
+Deal Cards:
+Deal 5 cards to each player face down.
+Place the remaining cards in the center as the draw pile.
+Determine the First Player:
+Choose a starting player by any agreed method (often the youngest player).
+4. Gameplay Structure
+Each turn consists of the following phases:
+
+A. Draw Phase
+At the start of your turn, draw 2 cards from the draw pile.
+Exception: If you begin your turn with 0 cards in hand, draw 5 cards instead.
+B. Action Phase
+Play up to 3 cards from your hand during your turn. (You are not required to play all three if you choose not to.)
+Cards can be played in one (or a combination) of three ways:
+Into Your Bank:
+Place money cards and/or action cards (if you want them to count as money) face-up.
+Cards in your bank serve as funds for paying opponents.
+Into Your Property Area:
+Lay property cards (or property wildcards) face-up in front of you to build property sets.
+As an Action:
+Play action cards (e.g., Rent, Forced Deal, Sly Deal, etc.) to execute their effects; these are placed in the center discard pile after use.
+C. End of Turn
+After playing, if you have more than 7 cards in your hand, discard down to 7.
+Cards already on the table (in your bank or property area) remain in play.
+D. Special Note on Running Out of Cards
+If you run out of cards during your turn, you do not immediately draw new ones. On your next turn, if you begin with 0 cards, draw 5 instead of 2.
+5. Payment Rules
+When Paying: Use cards from your bank and/or property area.
+Hand Cards: Cards in your hand cannot be used for payments.
+Combination: You may combine cards from your table to meet the payment required.
+Short Payment: If you cannot pay the full amount, pay as much as you can—no change is given.
+6. Winning the Game
+Victory Condition: Be the first player to display three complete property sets (each of a different color) on the table.
+Complete Set: Each property card indicates how many cards are needed to complete that color set.
+7. Additional Rules & Clarifications
+Rearranging Cards:
+You may rearrange or move your property cards (including wildcards) during your turn only.
+Finality of Plays:
+Once a card is played to your bank or property area, it cannot be returned to your hand.
+Just Say No Interactions:
+A Just Say No card cancels an opponent’s action card played against you.
+It may also be used in response to another Just Say No, potentially allowing the original action to take effect if countered twice.
+Turn Order:
+Play continues clockwise.
+8. Card Count Breakdown
+Below is a detailed breakdown of the number of each card type in the Monopoly Deal deck:
+
+Total Cards: 110
+
+Quick Start Rule Cards: 4
+
+Money Cards: 20
+
+1M cards: 6
+2M cards: 5
+3M cards: 3
+4M cards: 3
+5M cards: 2
+10M card: 1
+Action Cards: 34
+
+Deal Breaker: 2
+Just Say No: 3
+Pass Go: 10
+Forced Deal: 3
+Sly Deal: 3
+Debt Collector: 3
+It’s My Birthday: 3
+Double the Rent: 2
+House: 3
+Hotel: 2
+Rent Cards: 13
+
+Rent cards for specific color combinations (e.g., Dark Blue/Green, Red/Yellow, Pink/Orange, Light Blue/Brown, Railroad/Utility): 2 each
+Wild Rent (can be used for any color): 3
+Property Cards: 28
+
+Blue: 2
+Brown: 2
+Utility: 2
+Green: 3
+Yellow: 3
+Red: 3
+Orange: 3
+Pink: 3
+Light Blue: 3
+Railroad: 4
+Property Wildcards: 11
+
+Dark Blue/Green: 1
+Green/Railroad: 1
+Utility/Railroad: 1
+Light Blue/Railroad: 1
+Light Blue/Brown: 1
+Pink/Orange: 2
+Red/Yellow: 2
+Multi-color Property Wildcards: 2
+9. Frequently Asked Questions (FAQs)
+Q: What happens if I run out of cards during my turn?
+A: You don’t draw new cards immediately. On your next turn, if you begin with 0 cards, you draw 5 instead of 2.
+
+Q: Can I rearrange my cards after my turn?
+A: No. You may only rearrange your cards during your own turn.
+
+Q: How do payments work?
+A: Payments must be made using cards already played on the table (from your bank or property area). Cards in your hand cannot be used.
+
+Q: How does a Just Say No card work?
+A: It cancels an opponent’s action card played against you and can counter another Just Say No in a chain reaction.
+

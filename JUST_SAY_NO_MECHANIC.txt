@@ -1,0 +1,37 @@
+Just Say No Mechanic Explanation and Edge Cases
+
+Overview:
+-------------
+The "Just Say No" mechanic in Monopoly Deal allows a player to cancel an opponent's action card played against them. This cancellation can be countered by the opponent playing their own "Just Say No" card, which then reinstates the original action.
+
+Mechanic Details:
+-------------
+1. When an action card (e.g., Deal Breaker) is played targeting a player, the environment sets a pending action with:
+   - pending_action: The action card played.
+   - pending_action_source: The player who played the action.
+   - pending_action_target: The player being targeted.
+   - pending_counter: Initially set to 0.
+
+2. Just Say No Response:
+   a. If the targeted player (pending_action_target) plays a "Just Say No" card:
+      - _handle_just_say_no is invoked.
+      - The system sets pending_counter to 1.
+      - The turn switches to the original action player (pending_action_source) to allow a counter-response.
+   b. If the original action player (pending_action_source) plays a "Just Say No" card in response:
+      - _handle_just_say_no is invoked again.
+      - The pending_counter resets to 0.
+      - The turn switches back to the targeted player.
+
+3. Resolution:
+   - When a player chooses to PASS (i.e. not counter with another "Just Say No"), the pending action is resolved based on pending_counter:
+     • If pending_counter is 1 (only one "Just Say No" was played), the original action is canceled.
+     • If pending_counter is 0 (indicating a counter occurred), the original action is executed.
+
+Edge Cases:
+-------------
+- Only the targeted player (pending_action_target) and the original action player (pending_action_source) can validly play "Just Say No" cards in response to a pending action; other plays are ignored.
+- The mechanism supports only one counter per side; additional attempts are not processed.
+- All state update functions (e.g. _handle_just_say_no, _handle_birthday, _handle_double_rent, _handle_house, _handle_hotel) must return the updated state to ensure immutability.
+- After resolution (whether canceling or executing the pending action), the environment resets pending action variables (pending_action, pending_action_target, pending_action_source, pending_action_original, pending_counter).
+
+This design ensures that players can strategically counter actions while maintaining a clear and robust resolution process. 
